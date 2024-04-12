@@ -1,0 +1,32 @@
+# Python/Django related
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.pyc
+*.pyo
+*.egg-info/
+*.egg
+venv/
+db.sqlite3
+media/
+migrations/
+
+# Node.js/npm related
+node_modules/
+
+# Compiled files
+dist/
+build/
+
+# Virtual environment
+.env
+
+# IDE/Editor specific
+.idea/
+.vscode/
+*.sublime-*
+*.swp
+
+# Miscellaneous
+*.log
+*.DS_Store
